@@ -1,1 +1,1 @@
-# air-canvas
+The project aims to develop a real-time system using a camera to recognize human actions and translate them into digital strokes on a canvas. Hand gestures are tracked through motion analysis and activities recognized via deep learning algorithms. 
